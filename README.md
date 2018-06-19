@@ -1,7 +1,4 @@
-# intellij-live-templates
-Collection of IntelliJ Live Templates
-
-## How to use Live Templates
+# Collection of IntelliJ Live Templates
 
 https://www.jetbrains.com/help/idea/using-live-templates.html
 
