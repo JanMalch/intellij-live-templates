@@ -1,5 +1,8 @@
 # [@ngxs/store](https://github.com/ngxs/store)
 
+* [Action Class](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-class)
+* [Action Method in Store](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-method-in-store)
+
 ## Action Class
 
 **Abbreviation:** `ngxsa`
