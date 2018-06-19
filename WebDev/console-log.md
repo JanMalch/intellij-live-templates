@@ -20,3 +20,7 @@ console.log('Class: $CLASS$, Function: $FUNCTION$, Line $LINE$ $PARAM_TEXT$($EXP
 | PARAM      |                |               |                    |
 | PARAM_TEXT |                | PARAM         |                    |
 | EXPECTED   |                |               |                    |
+
+**Credit:**
+
+[Intellij Live template for console.log(‘’) that will improve your daily development life!](https://medium.com/netscape/intellij-live-template-for-console-log-that-will-improve-your-daily-development-life-ef1320a8fe81)
