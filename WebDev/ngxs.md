@@ -26,7 +26,9 @@ export class $ACTION_NAME$ {
 | PAYLOAD     |            |               |                 |
 
 
-### Action Class with prefix interpolation
+## Action Class with prefix interpolation
+
+>This requires you to have a prefix variable in the file. For example `const prefix = "Zoo";`.
 
 **Abbreviation:** `ngxsap`
 
@@ -45,6 +47,7 @@ export class $ACTION_NAME$ {
 |-------------|------------|---------------|-----------------|
 | ACTION_NAME |            |               |                 |
 | PAYLOAD     |            |               |                 |
+
 
 ## Action Method in Store
 
