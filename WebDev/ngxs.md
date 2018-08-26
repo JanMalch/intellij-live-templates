@@ -1,7 +1,6 @@
 # [@ngxs/store](https://github.com/ngxs/store)
 
 * [Action Class](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-class)
-* [Action Class with prefix interpolation](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-class-with-prefix-interpolation)
 * [Action Method in Store](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-method-in-store)
 
 ## Action Class
@@ -24,30 +23,6 @@ export class $ACTION_NAME$ {
 | ACTION_NAME |            |               |                 |
 | PREFIX      |            |               |                 |
 | PAYLOAD     |            |               |                 |
-
-
-## Action Class with prefix interpolation
-
->This requires you to have a prefix variable in the file. For example `const prefix = "Zoo";`.
-
-**Abbreviation:** `ngxsap`
-
-**Description:** Adds a @ngxs Action with prefix interpolation
-
-**Template text:**
-```typescript
-export class $ACTION_NAME$ {
-  static type = `[${prefix}] $ACTION_NAME$`;
-  constructor(public readonly payload: $PAYLOAD$) {}
-}$END$
-```
-**Edit variables:**
-
-| Name        | Expression | Default value | Skip if defined |
-|-------------|------------|---------------|-----------------|
-| ACTION_NAME |            |               |                 |
-| PAYLOAD     |            |               |                 |
-
 
 ## Action Method in Store
 
