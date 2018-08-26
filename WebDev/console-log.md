@@ -1,7 +1,9 @@
+# `console.log`
+
 * [`console.log` with param as text](#consolelog-with-param-as-text)
 * [`console.log` with position in file](#consolelog-with-position-in-file)
 
-# `console.log` with param as text
+## `console.log` with param as text
 
 **Abbreviation:** `cl`
 
@@ -20,7 +22,7 @@ console.log('$PARAM_TEXT$:', $PARAM$);$END$
 | PARAM_TEXT |                | PARAM         | :heavy_check_mark: |
 
 
-# `console.log` with position in file
+## `console.log` with position in file
 
 **Abbreviation:** `cll`
 
