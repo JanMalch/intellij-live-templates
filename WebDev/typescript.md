@@ -1,6 +1,6 @@
 # TypeScript
 
-* [Adds nice import paths in tsconfig.json](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md#action-class)
+* [Adds nice import paths in tsconfig.json](#tsconfigjson-paths)
 
 ## tsconfig.json paths
 
