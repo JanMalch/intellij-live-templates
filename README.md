@@ -2,7 +2,7 @@
 
 https://www.jetbrains.com/help/idea/using-live-templates.html
 
-## Most Useful
+## Overview
 
 **WebDev**
 * [two `console.log` variants](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/console-log.md)
@@ -11,7 +11,7 @@ https://www.jetbrains.com/help/idea/using-live-templates.html
 * [@ngxs](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/ngxs.md)
 * [TypeScript](https://github.com/JanMalch/intellij-live-templates/blob/master/WebDev/typescript.md)
 
-## Show (inferred) type of variable
+## Useful shortcuts
 
 * <kbd>Ctrl</kbd> + <kbd>Q</kbd>: Show documentation
 * <kbd>Ctrl</kbd> + *Hover*: Shows inferred type
