@@ -13,8 +13,9 @@ https://www.jetbrains.com/help/idea/using-live-templates.html
 
 ## Show (inferred) type of variable
 
-* `Ctrl` + *Hover*: Shows inferred type
-* `Ctrl` + `Shift` + `I`: View/Quick Definition
-* `Ctrl` + `Shift` + `P`: View/Expression Type
+* <kbd>Ctrl</kbd> + <kbd>Q</kbd>: Show documentation
+* <kbd>Ctrl</kbd> + *Hover*: Shows inferred type
+* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>: View/Quick Definition
+* <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>: View/Expression Type
 
 > https://stackoverflow.com/a/36940997
