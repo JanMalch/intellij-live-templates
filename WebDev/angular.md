@@ -1,6 +1,7 @@
 # Angular
 
 * [Add dependency in constructor](#add-dependency)
+* [Inject `document` reference`](#inject-document)
 
 ## Add dependency
 
@@ -18,3 +19,15 @@ private $VAR$: $CLASS$
 |-------|------------------|---------------|--------------------|
 | CLASS |                  |               |                    |
 | VAR   | camelCase(CLASS) |               | :heavy_check_mark: |
+
+
+## Inject `document`
+
+**Abbreviation:** `a-doc`
+
+**Description:** Inject document as dependency in the constructor
+
+**Template text:**
+```typescript
+@Inject(DOCUMENT) private document: Document
+```
