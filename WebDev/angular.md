@@ -1,7 +1,7 @@
 # Angular
 
 * [Add dependency in constructor](#add-dependency)
-* [Inject `document` reference`](#inject-document)
+* [Inject `document` reference](#inject-document)
 
 ## Add dependency
 
