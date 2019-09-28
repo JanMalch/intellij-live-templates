@@ -31,3 +31,5 @@ private $VAR$: $CLASS$
 ```typescript
 @Inject(DOCUMENT) private document: Document
 ```
+
+> `import {DOCUMENT} from "@angular/common";`
