@@ -1,6 +1,6 @@
 ---
 name: New live template
-about: Propose new live templaets
+about: Propose new live templates
 title: ''
 labels: ''
 assignees: JanMalch
