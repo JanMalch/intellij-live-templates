@@ -13,6 +13,7 @@ https://www.jetbrains.com/help/idea/using-live-templates.html
 
 ## Useful shortcuts
 
+* <kbd>Shift</kbd>, <kbd>Shift</kbd>: Search everywhere
 * <kbd>Ctrl</kbd> + <kbd>Q</kbd>: Show documentation
 * <kbd>Ctrl</kbd> + *Hover*: Shows inferred type
 * <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>: View/Quick Definition
